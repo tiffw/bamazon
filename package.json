@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atulsingla82/BAMazon.git"
+    "url": "git+https://github.com/tiffw/bamazon"
   },
   "author": "Atul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atulsingla82/BAMazon/issues"
+    "url": "https://github.com/tiffw/bamazon/issues"
   },
-  "homepage": "https://github.com/atulsingla82/BAMazon#readme",
+  "homepage": "https://github.com/tiffw/bamazon#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "inquirer": "^3.0.6",
