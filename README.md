@@ -18,12 +18,14 @@ npm install mysql
 npm install colors
 
 
-#videos
+# videos
 Bamazon Customer 
-https://youtu.be/n2pGz1CsxEY
+
+https://youtu.be/aoDQdOeI0o8
 
 Bamazon Manager 
-https://youtu.be/aoDQdOeI0o8
+
+https://youtu.be/n2pGz1CsxEY
 
 
 
