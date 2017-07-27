@@ -18,3 +18,12 @@ npm install mysql
 npm install colors
 
 
+#videos
+Bamazon Customer 
+https://youtu.be/n2pGz1CsxEY
+
+Bamazon Manager 
+https://youtu.be/aoDQdOeI0o8
+
+
+
